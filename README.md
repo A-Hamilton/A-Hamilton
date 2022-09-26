@@ -1,5 +1,5 @@
-### Hi there 👋 I'm [Adam Hamilton](https://anandmainali.com.np)
-> Studying at [Belfast Met](https://softnep.com)
+### Hi there 👋 I'm [Adam Hamilton](https://www.linkedin.com/in/adam-hamilton-5a650b187/)
+> Studying at [Belfast Met](https://www.belfastmet.ac.uk/)
 
 <p align="center">
 <a href="https://www.adamhamilton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adamhamilton.com-blue?style=flat-square&logo=google-chrome"></a>
@@ -42,14 +42,9 @@ I am a youthful and passionate full-stack Software Engineer that focuses on prod
  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
-### Tools 🛠️
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
-
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Adam Hamilton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
 
 ### Github Repos
 
