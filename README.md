@@ -2,7 +2,7 @@
 > Studying at [Belfast Met](https://www.belfastmet.ac.uk/)
 
 <p align="center">
-<a href="https://www.adamhamilton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adamhamilton.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.adamhamiltonportfolio.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adamhamilton.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/adam-hamilton-5a650b187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Hamilton-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:adamhamiltonbusiness@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-adamhamiltonbusiness@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
