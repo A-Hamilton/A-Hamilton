@@ -45,6 +45,7 @@ I am a youthful and passionate full-stack Software Engineer that focuses on prod
 ### Github Stats
 
 [![Adam Hamilton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
+</br>
 [![Adam Hamilton's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
 
 <h3> 🤝🏻 Connect with Me </h3>
