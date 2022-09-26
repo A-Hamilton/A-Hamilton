@@ -3,15 +3,13 @@
 
 <p align="center">
 <a href="https://www.adamhamilton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adamhamilton.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adam-hamilton-5a650b187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Hamilton?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/adam-hamilton-5a650b187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Hamilton-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:adamhamiltonbusiness@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-adamhamiltonbusiness@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+I am a youthful and passionate full-stack Software Engineer that focuses on producing well-designed, scalable, and efficient code while adhering to industry standards. My strengths include but are not limited to being a quick learner, a hard worker, and a team player fluent in several languages. I have an outstanding design and programming knowledge with the ability to transform customer requirements into innovative web apps..
 </p>
 </div>
 
