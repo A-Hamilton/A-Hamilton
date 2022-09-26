@@ -15,7 +15,7 @@ I am a youthful and passionate full-stack Software Engineer that focuses on prod
 
 ## Stacks
 
-- Programming Languages:
+- &nbsp;
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
  ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
