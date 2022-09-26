@@ -9,7 +9,7 @@
 
 <div>
  <p>
-I am a youthful and passionate full-stack Software Engineer that focuses on producing well-designed, scalable, and efficient code while adhering to industry standards. My strengths include but are not limited to being a quick learner, a hard worker, and a team player fluent in several languages. I have an outstanding design and programming knowledge with the ability to transform customer requirements into innovative web apps.
+I am a youthful and passionate full-stack Software Engineer that focuses on producing well-designed, scalable, and efficient code while adhering to industry standards. My strengths include but are not limited to being a quick learner, a hard worker, and a team player fluent in several languages. I have an outstanding design and programming skills with the ability to transform customer requirements into innovative web apps.
 </p>
 </div>
 
