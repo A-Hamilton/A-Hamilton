@@ -1,12 +1,11 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hi there 👋 I'm [Adam Hamilton](https://anandmainali.com.np)
 > Studying at [Belfast Met](https://softnep.com)
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<p align="center">
+<a href="https://www.adamhamilton.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/adam-hamilton-5a650b187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:adamhamiltonbusiness@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <div>
  <p>
