@@ -47,15 +47,3 @@ I am a youthful and passionate full-stack Software Engineer that focuses on prod
 [![Adam Hamilton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
 </br>
 [![Adam Hamilton's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
