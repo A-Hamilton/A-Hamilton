@@ -9,7 +9,7 @@
 
 <div>
  <p>
-I am a full-stack Software Engineer that focuses on producing well-designed, scalable, and efficient code while adhering to industry standards. This is my first year in higher education, studying Level 5 Cyber Security and Networking Infrastructure.
+I am a full-stack Software Engineer that focuses on producing well-designed, scalable, and efficient code while adhering to industry standards. This is my first year in higher education, studying Level 5 Cloud infrastructure and Programming.
 </p>
 </div>
 
