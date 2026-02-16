@@ -1,49 +1,56 @@
-### Hi there 👋 I'm [Adam Hamilton](https://www.linkedin.com/in/adam-hamilton-5a650b187/)
-> Studying at [Belfast Met](https://www.belfastmet.ac.uk/)
+# Adam Hamilton
 
-<p align="center">
-<a href="https://www.adamhamiltonportfolio.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adamhamiltonportfolio.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adam-hamilton-5a650b187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam%20Hamilton-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:adamhamiltonbusiness@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-adamhamiltonbusiness@outlook.com-blue?style=flat-square&logo=gmail"></a>
+**Full-Stack Software Engineer & ML/AI Engineer**
+
+BSc in Cloud Computing & Software / Data Science from Belfast Met. Building across the stack — from reinforcement learning models and systems-level tooling to production web applications.
+
+<p>
+<a href="https://www.linkedin.com/in/adam-hamilton-5a650b187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:adamhamiltonbusiness@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
-<div>
- <p>
-I am a full-stack Software Engineer that focuses on producing well-designed, scalable, and efficient code while adhering to industry standards. This is my first year in higher education, studying Level 5 Cloud infrastructure and Programming.
-</p>
-</div>
+---
 
-## Stacks
+## Featured Projects
 
-- 💻 &nbsp;
- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
- ![C#](https://img.shields.io/badge/-C*-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
- ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
-- 🖥 &nbsp;
- ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
- 
-### Github Stats
+| Project                                                                  | Description                                                                                                              | Stack                    |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [**PyRL**](https://github.com/A-Hamilton/PyRL)                           | 156M param RL-trained code generation model — GRPO+ with DiffAttn V2, grammar-constrained generation, 7-stage curriculum | Python                   |
+| [**docsnippet-mcp**](https://github.com/A-Hamilton/docsnippet-mcp)       | MCP server for searching and indexing library documentation                                                              | Rust, Python             |
+| [**aptrouter.ai**](https://github.com/A-Hamilton/aptrouter.ai)           | AI-powered routing platform with full-stack web interface                                                                | TypeScript, Rust, Python |
+| [**AptRouterAPI**](https://github.com/A-Hamilton/AptRouterAPI)           | Backend API service for AptRouter                                                                                        | Go                       |
+| [**compression-model**](https://github.com/A-Hamilton/compression-model) | Neural compression model                                                                                                 | Python                   |
+| [**dca_backtester**](https://github.com/A-Hamilton/dca_backtester)       | Dollar-cost averaging strategy backtester                                                                                | Python                   |
 
-[![Adam Hamilton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
-</br>
-[![Adam Hamilton's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hamilton&show_icons=true&count_private=true)](https://github.com/A-Hamilton)
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-333333?style=flat-square)
+
+**Web & Infrastructure**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+<details>
+<summary>GitHub Stats</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=A-Hamilton&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hamilton&layout=compact&count_private=true&hide_border=true" alt="Top Languages">
+</details>
