@@ -44,13 +44,3 @@ BSc in Cloud Computing & Software / Data Science from Belfast Met. Building acro
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-<details>
-<summary>GitHub Stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=A-Hamilton&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hamilton&layout=compact&count_private=true&hide_border=true" alt="Top Languages">
-</details>
